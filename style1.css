@@ -1,0 +1,12 @@
+body
+{
+    font-family: 'Space Mono', monospace;
+    color: white;
+    background-color: black;
+}
+
+
+#textbox
+{
+    width: 300px;
+}
